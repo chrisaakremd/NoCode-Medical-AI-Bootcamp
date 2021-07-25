@@ -1,5 +1,4 @@
 # Introduction to AI
-
 ## Objectives
 
 ## Reading/Viewing
@@ -9,6 +8,8 @@
   - Chapter 1: What is AI?
 - [IBM: What is AI?](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)  
 - [A short guide for medical professionals in the era of artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518439/)
+- [What should medical students know about artificial intelligence in medicine?](https://pubmed.ncbi.nlm.nih.gov/31319450/)
+- [Artificial intelligence and the cardiologist: what you need to know for 2020](https://pubmed.ncbi.nlm.nih.gov/31974212/)
 
 ## What is artificial intelligence?
 Artificial intelligence is a complex topic with much promise in medical practice and research. The goal of this bootcamp is to jump into the world of artificial intelligence and deep learning, gain exposure to key topics, and give you the information needed to generate ideas for applying AI to clinical practice and research.
@@ -50,6 +51,8 @@ Many technical tools and programming languages are used by data analysts, data s
 - [JAX](https://github.com/google/jax) - High performance deep learning library for python.
 - [ONNX](https://onnx.ai) - High performance open standard neural networks. Used for implementation. 
 - [HuggingFace Transformers](https://huggingface.co/transformers) - State of the art NLP library.
+- [spaCy](https://spacy.io) - NLP framework for python.
+- [NLTK](https://www.nltk.org) - NLP framework for python.
 
 
 **Learning how to use each of these tools is beyond the scope of this course**, but if you are interested, many excellent tutorials on programming languages and advanced AI/ML topics can be found and accessed for free through Mayo Clinic's license for [Udemy for business](http://mayoclinic.udemy.com).
