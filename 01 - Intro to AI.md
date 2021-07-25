@@ -9,6 +9,7 @@
   - Chapter 1: What is AI?
 - [IBM: What is AI?](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)  
 - [A short guide for medical professionals in the era of artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518439/)
+- [Video: AI for beginners. Chapters 1-6](https://www.youtube.com/watch?v=JMUxmLyrhSk)
 
 ## What is artificial intelligence?
 Artificial intelligence is a complex topic with much promise in medical practice and research. The goal of this bootcamp is to jump into the world of artificial intelligence and deep learning, gain exposure to key topics, and give you the information needed to generate ideas for applying AI to clinical practice and research.

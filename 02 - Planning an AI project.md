@@ -9,3 +9,4 @@
 - [Elements of AI: Introduction to AI](https://course.elementsofai.com/)
   - Chapter 2. AI problem solving
   - Chapter 3. Real world AI
+- [Video: AI for beginners. Chapters 1-6](https://www.youtube.com/watch?v=JMUxmLyrhSk)  
