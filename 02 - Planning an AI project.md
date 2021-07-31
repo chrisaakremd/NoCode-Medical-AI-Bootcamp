@@ -3,7 +3,7 @@
 ## Objectives
 
 ## Reading/Viewing
-- [AI for everyone by Deepmind.ai](https://www.coursera.org/learn/ai-for-everyone/)
+- [AI for everyone by Deeplearning.ai](https://www.coursera.org/learn/ai-for-everyone/)
   - Week 2. Building AI projects
   - Week 3. Building AI in your company
 - [Elements of AI: Introduction to AI](https://course.elementsofai.com/)
@@ -17,3 +17,16 @@
 - [Artificial intelligence to deep learning: machine intelligence approach for drug discovery](https://pubmed.ncbi.nlm.nih.gov/33844136/)
 - [Artificial Intelligence for the Artificial Kidney: Pointers to the Future of a Personalized Hemodialysis Therapy](https://pubmed.ncbi.nlm.nih.gov/29594137/)
 - [Personalized prediction of disease activity in patients with rheumatoid arthritis using an adaptive deep neural network](https://pubmed.ncbi.nlm.nih.gov/34185794/)
+
+#### Team roles
+- Data analyst
+  - Data pre-processing & data gathering
+  - Visualization, statistical analysis
+- Data scientist
+  - Data processing
+  - Model development and optimization
+  - Discover insights into data 
+- Machine learning engineer
+  - Build data pipelines for model training and implementation
+  - Data/software engineering
+  - Build model interfaces
