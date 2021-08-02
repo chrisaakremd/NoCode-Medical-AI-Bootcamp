@@ -2,7 +2,7 @@
 ## What is artificial intelligence?
 Artificial intelligence is a complex topic with much promise in medical practice and research. The goal of this bootcamp is to jump into the world of artificial intelligence and deep learning, gain exposure to key topics, and give you the information needed to generate ideas for applying AI to clinical practice and research.
 ### Brief overview
-This course's content is an aggregation of free online courses from AI education leaders such as Deepmind.ai, Edureka, University of Helsinki, and select literature from PubMed. 
+This course's content is an aggregation of free online courses from AI education leaders such as Deeplearning.ai, Edureka, University of Helsinki, and select literature from PubMed. 
 
 Completion of the Coursera/Deeplearning.ai course takes about 7 hours total to complete and comes with a shareable certificate at completion.
 - Deeplearning.ai has 5 additional specialization courses available through Coursera for those with interest in learning how to program these models.
