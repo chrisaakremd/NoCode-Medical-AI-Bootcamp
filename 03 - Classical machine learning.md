@@ -9,16 +9,16 @@
 - [eDoctor: machine learning and the future of medicine](https://onlinelibrary.wiley.com/doi/10.1111/joim.12822)
   - Overview of supervised, unsupervised learning and some potential applications in medicine
   - Describes the following classical ML methods:
-    - Support vector machines
+    - Support vector machines (SVM)
     - Decision trees
-    - Principle component analysis
+    - Principal component analysis (PCA)
   - Describes how to assess accuracy/performance
   - Describes overfitting/underfitting of models (bias-variance tradeoff)
 - [An introduction to machine learning.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189875/)
   - Pharmacology/drug discovery focused. 
   - Describes supervised and unsupervised techniques. More in-depth on how these methods work with helpful graphics.
     - Clustering methods: k-means, density, hierarchical
-    - Dimensionality reduction: PCA, tSNE, uMAP 
+    - Dimensionality reduction methods: PCA, tSNE, UMAP 
     - Regression: linear/logistic, SVM, neural network
     - Classification: decision trees, Naive Bayes, SVM, kNN
   - Describes framework to pick/assess models
