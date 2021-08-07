@@ -7,11 +7,57 @@
   - Chapter 4. Machine learning
 ### Readings [Optional]  
 - [eDoctor: machine learning and the future of medicine](https://onlinelibrary.wiley.com/doi/10.1111/joim.12822)
+  - Overview of supervised, unsupervised learning and some potential applications in medicine
+  - Describes the following classical ML methods:
+    - Support vector machines
+    - Decision trees
+    - Principle component analysis
+  - Describes how to assess accuracy/performance
+  - Describes overfitting/underfitting of models (bias-variance tradeoff)
 - [An introduction to machine learning.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7189875/)
+  - Pharmacology/drug discovery focused. 
+  - Describes supervised and unsupervised techniques. More in-depth on how these methods work with helpful graphics.
+    - Clustering methods: k-means, density, hierarchical
+    - Dimensionality reduction: PCA, tSNE, uMAP 
+    - Regression: linear/logistic, SVM, neural network
+    - Classification: decision trees, Naive Bayes, SVM, kNN
+  - Describes framework to pick/assess models
 - [Overview of Machine Learning Part 1: Fundamentals and Classic Approaches](https://pubmed.ncbi.nlm.nih.gov/33039003/)
+  - Summary of ML terminology (Table 1)
+  - Helpful description of the ML model development workflow (complements day 2 material)
+    - Exploratory data analysis
+    - Data cleaning
+    - Feature engineering/dimensionality reduction
+    - Dataset splitting
+    - Model training and validation
+  - Model decriptions
+    - Linear/logistic regression
+    - SVM
+    - k-means
+    - Naive Bayes
+    - Decision trees/forests
+    - PCA
+    - Neural networks (brief, covered in more detail by other sources)
 - [Introduction to machine learning](https://link.springer.com/protocol/10.1007/978-1-62703-748-8_7)
-  - Detailed review of classical ML, great resource.
-- [Machine learning in health care and laboratory medicine: General overview of supervised learning and Auto-ML](https://pubmed.ncbi.nlm.nih.gov/34288435/)  
+  - Book Chapter (#7). Detailed review of classical ML.
+  - Defines machine learning
+  - Defines dataset features used for model training 
+  - Deines Supervised versus unsupervised learning
+  - Defines classification target types:
+    - Multi-class, binary, multi-label
+    - Anomaly detection/one-class density
+  - Machine learning model training design and workflow overview
+  - Discussion of metrics used to evaluate ML models
+    - Precision, recall, F1 score
+    - Sensitivity, specificity, ROC curve
+  - Brief description of probabilistic methods
+- [Machine learning in health care and laboratory medicine: General overview of supervised learning and Auto-ML](https://pubmed.ncbi.nlm.nih.gov/34288435/)
+  - (Auto-ML is available in the Google AI Factory)
+  - Overview of types of machine learning
+    - Supervised, unsupervised, reinforcement
+  - Review of dataset issues inherent to healthcare
+  - Description of manual versus automated machine learning model development workflow
+  - Describes potential benefits/drawbacks of Auto-ML in healthcare applications.
 ### Videos [Optional]
 - [AI for beginners. Chapter 7-27](https://www.youtube.com/watch?v=JMUxmLyrhSk&t=1632s)
   - Detailed introduction to machine learning, including neural networks. 
