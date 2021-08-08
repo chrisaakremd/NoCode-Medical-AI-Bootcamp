@@ -1,11 +1,12 @@
 # Classical machine learning
 ## Objectives
-
+- Define supervised and unsupervised machine learning
+- Review classifical (ie non-neural network) machine learning methods and applications
 ## Reading/Viewing
 ### Online course modules
 - [Elements of AI: Introduction to AI](https://course.elementsofai.com/)
-  - Chapter 4. Machine learning
-### Readings [Optional]  
+  - Chapter 4: Machine learning
+### Readings [Supplemental]  
 - [eDoctor: machine learning and the future of medicine](https://onlinelibrary.wiley.com/doi/10.1111/joim.12822)
   - Overview of supervised, unsupervised learning and some potential applications in medicine
   - Describes the following classical ML methods:
@@ -58,6 +59,6 @@
   - Review of dataset issues inherent to healthcare
   - Description of manual versus automated machine learning model development workflow
   - Describes potential benefits/drawbacks of Auto-ML in healthcare applications.
-### Videos [Optional]
+### Videos [Supplemental]
 - [AI for beginners. Chapter 7-27](https://www.youtube.com/watch?v=JMUxmLyrhSk&t=1632s)
   - Detailed introduction to machine learning, including neural networks. 

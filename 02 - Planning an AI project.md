@@ -1,18 +1,22 @@
 # Planning an AI project
-
 ## Objectives
-
+- Learn how to identify potential AI use cases in your clinical practice and research.
+- Define key roles of data science/AI team members.
 ## Reading/Viewing
 ### Online course modules
 - [AI for everyone by Deeplearning.ai](https://www.coursera.org/learn/ai-for-everyone/)
-  - Week 2. Building AI projects
-  - Week 3. Building AI in your company
+  - Week 2: Building AI projects
+  - Week 3: Building AI in your company
 - [Elements of AI: Introduction to AI](https://course.elementsofai.com/)
-  - Chapter 2. AI problem solving
-  - Chapter 3. Real world AI
-### Videos [Optional]  
+  - Chapter 2: AI problem solving
+  - Chapter 3: Real world AI
+- [Managing Machine Learning Projects with Google Cloud](https://www.coursera.org/learn/machine-learning-business-professionals)
+  - Module 2: Identifying business value for using ML
+  - Module 3: Defining ML as a practice
+  - Module 6: Discovering ML use cases in day-to-day business
+### Videos [Supplemental]  
 - [AI for beginners. Chapters 1-6](https://www.youtube.com/watch?v=JMUxmLyrhSk)
-### Readings [Optional]  
+### Readings [Supplemental]  
 - [Conceptualising Artificial Intelligence as a Digital Healthcare Innovation: An Introductory Review](https://doi.org/10.2147/MDER.S262590)
   - General description of potential applications of AI in healthcare
 - [Artificial intelligence with multi-functional machine learning platform development for better healthcare and precision medicine](https://pubmed.ncbi.nlm.nih.gov/32185396/)
@@ -41,4 +45,6 @@ Executing an AI/ML initiative will involve technical roles that may be unfamilia
   - Build data pipelines for model training and implementation
   - Data/software engineering
   - Build model interfaces
-  
+
+### Mayo AI Process Guide
+[AI process guide](https://mcc.mayo.edu/support/ai-process-guide)

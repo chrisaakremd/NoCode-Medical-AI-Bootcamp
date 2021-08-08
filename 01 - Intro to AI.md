@@ -2,7 +2,7 @@
 ## What is artificial intelligence?
 Artificial intelligence is a complex topic with much promise in medical practice and research. The goal of this bootcamp is to jump into the world of artificial intelligence and deep learning, gain exposure to key topics, and give you the information needed to generate ideas for applying AI to clinical practice and research.
 ### Brief overview
-This course's content is an aggregation of free online courses from AI education leaders such as Deeplearning.ai, Edureka, University of Helsinki, and select literature from PubMed. 
+This course's content is an aggregation of free online courses from AI education leaders such as Coursera, Deeplearning.ai, Edureka, University of Helsinki, and select literature from PubMed. 
 
 Completion of the Coursera/Deeplearning.ai course takes about 7 hours total to complete and comes with a shareable certificate at completion.
 - Deeplearning.ai has 5 additional specialization courses available through Coursera for those with interest in learning how to program these models.
@@ -10,8 +10,10 @@ Completion of the Coursera/Deeplearning.ai course takes about 7 hours total to c
 Completion of the Elements of AI course takes about 6-10 hours total, including exercises. A sharable certificate is available at completion. 
 - An intermediate level **'Building AI'** course is also available through Elements of AI. We will be using portions of this course in this bootcamp. A certificate, if desired, can be purchased with completion of the entire course.  
 
+Completion of the Coursera 'Managing Machine Learning Projects with Google Cloud' course, a non-technical course targeting business professionals (clinicians too!) that will be directing ML projects. 
+
 [Fast.ai](http://fast.ai) is a popular, free resource for learning deep learning, natural language processing, and machine learning. However, this course emphasizes a **code first** teaching philosophy. 
-- If you have previous experience with writing code (even if only a little) and want to learn more about coding neural networks in python, this resource is for you!
+- If you have previous experience with writing code (even if only a little) and want to learn more about coding neural networks in python, this resource is a great start!
 
 ## Reading/Viewing
 ### Online course modules
@@ -19,13 +21,16 @@ Completion of the Elements of AI course takes about 6-10 hours total, including 
   - Week 1: What is AI?
 - [Elements of AI: Introduction to AI](https://course.elementsofai.com/)
   - Chapter 1: What is AI?
-### General reading [Optional]
+- [Managing Machine Learning Projects with Google Cloud](https://www.coursera.org/learn/machine-learning-business-professionals)
+  - Module 1: Introduction
+### General reading [Supplemental]
 - [IBM: What is AI?](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [A short guide for medical professionals in the era of artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518439/)
 - [Artificial intelligence and the cardiologist: what you need to know for 2020](https://pubmed.ncbi.nlm.nih.gov/31974212/)
-### Videos [Recommended]
+### Videos [Supplemental]
 - AI for beginners. Chapters 1-6
-  [![Video: AI for beginners. Chapters 1-6](https://img.youtube.com/vi/JMUxmLyrhSk/0.jpg)](https://www.youtube.com/watch?v=JMUxmLyrhSk)
+
+  [![AI for beginners. Chapters 1-6](https://img.youtube.com/vi/JMUxmLyrhSk/0.jpg)](https://www.youtube.com/watch?v=JMUxmLyrhSk)
 ## Highlights from selected readings/videos
 - Difference in scope between General and Narrow AI
 - General differences between machine learning and deep learning
@@ -59,5 +64,7 @@ In AI papers, you may run across some of these libraries and frameworks.
 - [spaCy](https://spacy.io) - NLP framework for python.
 - [NLTK](https://www.nltk.org) - NLP framework for python.
 
-
 **Learning how to use each of these tools is beyond the scope of this course**, but if you are interested, many excellent tutorials on programming languages and advanced AI/ML topics can be found and accessed for free through Mayo Clinic's license for [Udemy for business](http://mayoclinic.udemy.com).
+
+### Additional resources
+[Mayo AI knowledgebase sharepoint](https://mctools.sharepoint.com/teams/AIFactoryTeam/SitePages/Documentation.aspx)
