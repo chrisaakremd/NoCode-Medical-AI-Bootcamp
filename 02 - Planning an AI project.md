@@ -48,3 +48,18 @@ Executing an AI/ML initiative will involve technical roles that may be unfamilia
 
 ### Mayo AI Process Guide
 [AI process guide](https://mcc.mayo.edu/support/ai-process-guide)
+
+
+### Curated AI talks and perspectives
+- [Keynote: Deepak Chopra, MD & Dava Newman (Director @MIT Media Lab)](https://youtu.be/enkaHSQUa6I)
+- [AI & Digital Therapeutics](https://youtu.be/Sd0xw3uRSkQ)
+- [Future of AI & Healthcare](https://youtu.be/I6Wypiwar6g)
+- [AI & Chronic Disease Management](https://youtu.be/e-WmYaqswdE)
+- [AI & Mental Health](https://youtu.be/IuiOZnYTJlQ)
+- [Voice AI & Mental Health](https://youtu.be/qhVR8sOtsJk)
+- [Virtual Beings & Healthcare](https://youtu.be/dbIjqsqcYPY)
+- [Re-Imagining Humanity](https://youtu.be/tbv8K9ODK0A)
+- [Future of AR/VR/XR - Digital Therapeutics](https://youtu.be/dnokC722od8)
+- [Community Driven AI](https://youtu.be/wqs6X2UFC5I)
+- [Virtual Humans - Soul Machines](https://youtu.be/Yrk6y2rsn8c)
+- [AI & The Post Work World](https://youtu.be/55Z_kQDEPJM)
