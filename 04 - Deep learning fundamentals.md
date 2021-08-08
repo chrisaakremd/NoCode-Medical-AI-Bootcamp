@@ -7,6 +7,10 @@
   - Loss functions
   - Optimizers
 ## Reading/Viewing
+- [AI Lecture series](http://intranet.mayo.edu/charlie/department-medicine-rst/ai-informatics/ai-informatics-training-resources/)
+  - Data inputs
+  - Inside the black box: Dense layers and dropout regularization
+  - Model outputs, metrics, and optimizers
 ### Online course modules
 - [Elements of AI: Introduction to AI](https://course.elementsofai.com/)
   - Chapter 5: Neural networks

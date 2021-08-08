@@ -16,6 +16,8 @@ Completion of the Coursera 'Managing Machine Learning Projects with Google Cloud
 - If you have previous experience with writing code (even if only a little) and want to learn more about coding neural networks in python, this resource is a great start!
 
 ## Reading/Viewing
+- [AI Lecture series](http://intranet.mayo.edu/charlie/department-medicine-rst/ai-informatics/ai-informatics-training-resources/)
+  - Introduction
 ### Online course modules
 - [AI for everyone by Deeplearning.ai](https://www.coursera.org/learn/ai-for-everyone/)
   - Week 1: What is AI?
@@ -27,6 +29,7 @@ Completion of the Coursera 'Managing Machine Learning Projects with Google Cloud
 - [IBM: What is AI?](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [A short guide for medical professionals in the era of artificial intelligence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518439/)
 - [Artificial intelligence and the cardiologist: what you need to know for 2020](https://pubmed.ncbi.nlm.nih.gov/31974212/)
+- [McKinsey: Executive's guide to AI](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 ### Videos [Supplemental]
 - AI for beginners. Chapters 1-6
 

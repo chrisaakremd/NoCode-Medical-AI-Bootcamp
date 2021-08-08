@@ -16,8 +16,8 @@
 - [Methodologic Guide for Evaluating Clinical Performance and Effect of Artificial Intelligence Technology for Medical Diagnosis and Prediction](https://pubs.rsna.org/doi/full/10.1148/radiol.2017171920)
   - Review of evaluating predictive performance
 - [Explainability and auditability in AI](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
-  - Thorough article on how black box AI model explainability is assessed.
+  - Thorough article on how black box AI/ML model explainability can be assessed.
 - [An overview of model explainability in modern machine learning](https://towardsdatascience.com/an-overview-of-model-explainability-in-modern-machine-learning-fc0f22c8c29a)
-  - Another thorough article on ML model explainability. 
+  - Another thorough article on AI/ML model explainability. 
 ### Videos [Supplemental]
 None

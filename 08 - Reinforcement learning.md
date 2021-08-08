@@ -3,6 +3,7 @@
 - Review key components of reinforcement learning models
 - Review policy and value based reinforcement learning
 ## Reading/Viewing
+- [Reinforcement Learning: Goal oriented intelligence video series](https://www.youtube.com/watch?v=nyjbcRQ-uQ8&list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 ### Online course modules
 None
 ### Readings [Supplemental]

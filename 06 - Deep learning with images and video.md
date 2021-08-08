@@ -4,6 +4,8 @@
 - Define autoencoder and generative adversarial networks and their uses
 - Review differences in models used for image classification, object detection, and image segmentation. 
 ## Reading/Viewing
+- [AI Lecture series](http://intranet.mayo.edu/charlie/department-medicine-rst/ai-informatics/ai-informatics-training-resources/)
+  - Inside the black box: Convolutional layers and pooling
 ### Online course modules
 None
 ### Readings [Supplemental] 

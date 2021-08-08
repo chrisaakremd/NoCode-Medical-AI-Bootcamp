@@ -3,10 +3,16 @@
 - Define supervised and unsupervised machine learning
 - Review classifical (ie non-neural network) machine learning methods and applications
 ## Reading/Viewing
+- [AI Lecture series](http://intranet.mayo.edu/charlie/department-medicine-rst/ai-informatics/ai-informatics-training-resources/)
+  - Supervised learning
+  - Unsupervised learning
+- A Visual introduction to machine learning 
+  - [part 1](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+  - [part 2](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 ### Online course modules
 - [Elements of AI: Introduction to AI](https://course.elementsofai.com/)
   - Chapter 4: Machine learning
-### Readings [Supplemental]  
+### Readings [Supplemental]
 - [eDoctor: machine learning and the future of medicine](https://onlinelibrary.wiley.com/doi/10.1111/joim.12822)
   - Overview of supervised, unsupervised learning and some potential applications in medicine
   - Describes the following classical ML methods:
@@ -61,4 +67,4 @@
   - Describes potential benefits/drawbacks of Auto-ML in healthcare applications.
 ### Videos [Supplemental]
 - [AI for beginners. Chapter 7-27](https://www.youtube.com/watch?v=JMUxmLyrhSk&t=1632s)
-  - Detailed introduction to machine learning, including neural networks. 
+  - Detailed introduction to machine learning, including neural networks.

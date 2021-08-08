@@ -6,6 +6,8 @@
 - Review how word embeddings are used to capture semantic similarity
 - Review transformer model architecture and limitations
 ## Reading/Viewing
+- [AI Lecture series](http://intranet.mayo.edu/charlie/department-medicine-rst/ai-informatics/ai-informatics-training-resources/)
+  - Inside the black box: sequence data
 ### Online course modules
 None
 ### Readings [Supplemental]
