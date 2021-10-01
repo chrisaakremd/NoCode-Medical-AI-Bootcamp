@@ -21,7 +21,7 @@ None
     - Representing uncommon words
     - Encoding word similarity
   - Named entity recognition
-- [Natural langauge processing: an introduction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
+- [Natural language processing: an introduction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3168328/)
   - Thorough primer on natural language processing
     - Historical challenges and approaches
       - Support vector machines, hidden Markov models, conditional random fields, N-grams
