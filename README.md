@@ -6,6 +6,7 @@ A 2 week, no-code AI boot camp for clinicians. **No coding required!**
 
 - By the end of the rotation, learners will demonstrate an understanding of how machine learning and artificial intelligence can be integrated into a clinical research utilizing structured data, natural language, and imaging in the medical literature.
 - By the end of the rotation, learners will complete assigned artificial intelligence and machine learning modules and apply new knowledge and skills towards answering selected demonstration problems.
+- [Optional] Prepare a research proposal that utilizes AI in your field of interest. Feedback/review will be provided. 
 
 ## Course structure
 | **Day** | **Topic** |
